@@ -1,4 +1,4 @@
-# 🛡️ Java Data Structures Project — Els Cavallers de la Taula de Hash 🛡️
+# 🛡️ Java Data Structures & Algotithms Project — Els Cavallers de la Taula de Hash 🛡️
 
 **Group 9**  
 **Nil Bagaria Nofre ✨  
