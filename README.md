@@ -1,14 +1,17 @@
 # 🛡️ Java Data Structures Project — Els Cavallers de la Taula de Hash 🛡️
-**Álvaro Bello ✨  
+
+**Group 9**  
+**Nil Bagaria Nofre ✨  
 Guillem Alba Payà ✨  
 Isabel Rodríguez ✨  
-Nil Bagaria Nofre ✨  
+Álvaro Bello ✨  
 Development Date**: 28/05/2023 📅
+
 
 ## Project Overview 🚀
 This project was developed as part of the **Advanced Programming and Data Structures** course at **La Salle - Universitat Ramon Llull** during the 2022–2023 academic year.
 
-It explores the implementation of various **non-linear data structures** in Java, including **graphs, binary search trees (BSTs), R-trees, and hash tables**, along with associated algorithms for traversal, search, insertion, deletion, and optimization.
+It explores the implementation of various non-linear data structures in Java, including **graphs, binary search trees (BSTs), R-trees, and hash tables**, along with associated algorithms for traversal, search, insertion, deletion, and optimization.
 
 
 ## Key Features 🌟
@@ -20,7 +23,7 @@ It explores the implementation of various **non-linear data structures** in Java
 
 
 
-## 📂 Project Structure
+## Project Structure 📂
 
 ```
 els-cavallers-taula-hash/
@@ -89,7 +92,7 @@ els-cavallers-taula-hash/
 - Custom datasets were also created for debugging and validation.
 
 
-## 🚧 Known Issues
+## Known Issues 🚧
 
 - Stack overflow with unbalanced or deep trees on large datasets.
 - Visual tree rendering was complex and required custom formatting.
